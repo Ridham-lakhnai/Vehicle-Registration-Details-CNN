@@ -12,7 +12,13 @@ Library:
 4. easyocr
 5. xmltodict
 6. requests
+
+
+
 -> check your selinux in RHEL-8 it must be permessive.
+
 -> check your httpd server must be running.
+
 -> make sure you have given sudo power to apache server.
+
 Thank You
